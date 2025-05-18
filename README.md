@@ -1,0 +1,1 @@
+# OpenAI_competition_05_2025
