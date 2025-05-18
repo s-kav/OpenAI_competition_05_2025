@@ -1,0 +1,16 @@
+# data
+data/raw/
+data/interim/
+data/processed/
+
+# models
+models/saved_models/
+
+# enviroment
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
